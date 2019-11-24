@@ -1,0 +1,14 @@
+.striker {
+    text-decoration: line-through;
+}
+
+.table a{
+    text-decoration: none;
+    color: grey;
+    cursor: pointer;
+}
+
+.table a:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
